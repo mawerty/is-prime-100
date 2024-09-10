@@ -6,7 +6,7 @@ Overview
 Prime numbers have long intrigued mathematicians and computer scientists alike. With Is-Prime-100, we introduce a novel method that operates in constant time (O(1)) within a specified range, delivering flawless results through intricate and sophisticated logic.
 ## Key Features
 
-Unmatched Accuracy: Guarantees 100% accuracy for numbers between 1 and 10 million.
+Unmatched Accuracy: Guarantees 100% accuracy.
 Constant Time Complexity: Achieves rapid results by employing an advanced technique that circumvents traditional computational bottlenecks.
 Sophisticated Logic: Utilizes a highly detailed set of conditions to ensure comprehensive coverage.
 
@@ -23,8 +23,8 @@ We welcome contributions to enhance and extend this project. If you have ideas f
 ## Guidelines
 
     Function and Variable Naming: Adhere to naming conventions by using is_prime for functions and variables.
-    File Naming: The main file should be named main.py.
-    New Language Implementations: When contributing a new language, include an optimized version of your code and update the language list in the README.
+    File Naming: The main file should be named main.extention.
+    New Language Implementations: If you see that implementation in any of the languages is suboptimal, or want to contribute to this great project, by rewriting it in new language, feel free to!
 
 ## FAQ
 
