@@ -1,6 +1,6 @@
 # Is-Prime-100: A Revolutionary O(1) Algorithm for Prime Detection
 
-Welcome to the GitHub repository for Is-Prime-100 the great successor of [Is-Prime](https://github.com/mawerty/Is-Prime), an innovative algorithm designed to determine whether a number is prime with 100% accuracy for integers(For technical reasons current inplementation supports only numbers from 1 to 5 milion, but it can be expaned!). This algorithm represents a groundbreaking approach to primality testing, harnessing advanced techniques and complex condition checks to achieve its results.
+Welcome to the GitHub repository for Is-Prime-100 the great successor of [Is-Prime](https://github.com/mawerty/Is-Prime), an innovative algorithm designed to determine whether a number is prime with 100% accuracy for integers(For technical reasons current inplementation supports only numbers from 1 to 500 000, but it can be expaned!). This algorithm represents a groundbreaking approach to primality testing, harnessing advanced techniques and complex condition checks to achieve its results.
 Overview
 
 Prime numbers have long intrigued mathematicians and computer scientists alike. With Is-Prime-100, we introduce a novel method that operates in constant time (O(1)), delivering flawless results through intricate and sophisticated logic.
