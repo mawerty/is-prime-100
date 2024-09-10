@@ -1,32 +1,32 @@
-#Is-Prime-100: A Revolutionary O(1) Algorithm for Prime Detection
+# Is-Prime-100: A Revolutionary O(1) Algorithm for Prime Detection
 
 Welcome to the GitHub repository for Is-Prime-100, an innovative algorithm designed to determine whether a number is prime with 100% accuracy for integers(For technical reasons current inplementation supports only numbers from 1 to 10 milion, but it can be expaned easily!). This algorithm represents a groundbreaking approach to primality testing, harnessing advanced techniques and complex condition checks to achieve its results.
 Overview
 
 Prime numbers have long intrigued mathematicians and computer scientists alike. With Is-Prime-100, we introduce a novel method that operates in constant time (O(1)) within a specified range, delivering flawless results through intricate and sophisticated logic.
-##Key Features
+## Key Features
 
     Unmatched Accuracy: Guarantees 100% accuracy for numbers between 1 and 10 million.
     Constant Time Complexity: Achieves rapid results by employing an advanced technique that circumvents traditional computational bottlenecks.
     Sophisticated Logic: Utilizes a highly detailed set of conditions to ensure comprehensive coverage.
 
-##Performance
+## Performance
 
 While this algorithm excels in accuracy, it is important to note that it is not the most optimized solution available. For those seeking the most efficient prime-checking algorithms, we recommend exploring Is-Prime, which delivers approximately 95% accuracy with superior performance in real-life scenarios.
-##NPM Package
+## NPM Package
 
 For ease of use in your JavaScript projects, check out our NPM package. It provides an efficient and fast alternative for prime detection, complementing our Python implementation.
-##Contributing
+## Contributing
 
 We welcome contributions to enhance and extend this project. If you have ideas for optimizations, additional implementations in different languages, or improvements to the current approach, please submit a pull request or give the project a star to show your support.
 
-##Guidelines
+## Guidelines
 
     Function and Variable Naming: Adhere to naming conventions by using is_prime for functions and variables.
     File Naming: The main file should be named main.py.
     New Language Implementations: When contributing a new language, include an optimized version of your code and update the language list in the README.
 
-##FAQ
+## FAQ
 
 Q: Is this project serious?
 A: Absolutely. This project is a serious exploration into innovative prime detection methodologies.
