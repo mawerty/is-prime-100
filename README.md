@@ -15,7 +15,7 @@ Sophisticated Logic: Utilizes a highly detailed set of conditions to ensure comp
 While this algorithm excels in accuracy, it is important to note that it is not the most optimized solution available. For those seeking the most efficient prime-checking algorithms, we recommend exploring Is-Prime, which delivers approximately 95% accuracy with superior performance in real-life scenarios.
 ## NPM Package
 
-For ease of use in your JavaScript projects, check out our NPM package. It provides an efficient and fast alternative for prime detection, complementing our Python implementation.
+Unfortunately this implementation isn't avaible as npm package, but you may be interested in checking out the [npm package of heuristic version](https://www.npmjs.com/package/is-prime-fast), which is almost as good as this one! 
 ## Contributing
 
 We welcome contributions to enhance and extend this project. If you have ideas for optimizations, additional implementations in different languages, or improvements to the current approach, please submit a pull request or give the project a star to show your support.
@@ -35,6 +35,9 @@ Q: How does the algorithm ensure 100% accuracy?
 A: The algorithm employs a comprehensive set of conditions designed to verify primality with complete certainty for the specified range.
 
 Q: What if I need a more performance-oriented solution?
-A: For high-performance needs, consider the Is-Prime npm package, which offers a high-performance alternative with approximately 95% accuracy.
+A: For high-performance needs, consider the [Is-Prime heuristic implementation](https://github.com/mawerty/Is-Prime), which offers a high-performance alternative with approximately 95% accuracy.
+
+Q: What if I need to check whether number is prime in my next-gen javascript project?
+A: Unfortunately this implementation isn't avaible as npm package, but you may be interested in checking out the [npm package of heuristic version](https://www.npmjs.com/package/is-prime-fast), which is almost as good as this one! 
 
 Thank you for your interest in Is-Prime-100. We look forward to your contributions and feedback!
