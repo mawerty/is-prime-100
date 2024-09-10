@@ -22,9 +22,9 @@ We welcome contributions to enhance and extend this project. If you have ideas f
 
 ## Guidelines
 
-    Function and Variable Naming: Adhere to naming conventions by using is_prime for functions and variables.
-    File Naming: The main file should be named main.extention.
-    New Language Implementations: If you see that implementation in any of the languages is suboptimal, or want to contribute to this great project, by rewriting it in new language, feel free to!
+Function and Variable Naming: Adhere to naming conventions by using is_prime for functions and variables.
+File Naming: The main file should be named main.extention.
+New Language Implementations: If you see that implementation in any of the languages is suboptimal, or want to contribute to this great project, by rewriting it in new language, feel free to!
 
 ## FAQ
 
