@@ -12,7 +12,7 @@ Sophisticated Logic: Utilizes a highly detailed set of conditions to ensure comp
 
 ## Performance
 
-While this algorithm excels in accuracy, it is important to note that it is not the most optimized solution available. For those seeking the most efficient prime-checking algorithms, we recommend exploring Is-Prime, which delivers approximately 95% accuracy with superior performance in real-life scenarios.
+While this algorithm excels in accuracy, it is important to note that it is not the most optimized solution available. For those seeking the most efficient prime-checking algorithms, we recommend exploring [Is-Prime](https://github.com/mawerty/Is-Prime), which delivers approximately 95% accuracy with superior performance in real-life scenarios.
 ## NPM Package
 
 Unfortunately this implementation isn't avaible as npm package, but you may be interested in checking out the [npm package of heuristic version](https://www.npmjs.com/package/is-prime-fast), which is almost as good as this one! 
