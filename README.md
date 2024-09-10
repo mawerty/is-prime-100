@@ -3,7 +3,7 @@
 Welcome to the GitHub repository for Is-Prime-100, an innovative algorithm designed to determine whether a number is prime with 100% accuracy for integers(For technical reasons current inplementation supports only numbers from 1 to 10 milion, but it can be expaned easily!). This algorithm represents a groundbreaking approach to primality testing, harnessing advanced techniques and complex condition checks to achieve its results.
 Overview
 
-Prime numbers have long intrigued mathematicians and computer scientists alike. With Is-Prime-100, we introduce a novel method that operates in constant time (O(1)) within a specified range, delivering flawless results through intricate and sophisticated logic.
+Prime numbers have long intrigued mathematicians and computer scientists alike. With Is-Prime-100, we introduce a novel method that operates in constant time (O(1)), delivering flawless results through intricate and sophisticated logic.
 ## Key Features
 
 Unmatched Accuracy: Guarantees 100% accuracy.
