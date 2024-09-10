@@ -6,9 +6,9 @@ Overview
 Prime numbers have long intrigued mathematicians and computer scientists alike. With Is-Prime-100, we introduce a novel method that operates in constant time (O(1)) within a specified range, delivering flawless results through intricate and sophisticated logic.
 ## Key Features
 
-    Unmatched Accuracy: Guarantees 100% accuracy for numbers between 1 and 10 million.
-    Constant Time Complexity: Achieves rapid results by employing an advanced technique that circumvents traditional computational bottlenecks.
-    Sophisticated Logic: Utilizes a highly detailed set of conditions to ensure comprehensive coverage.
+Unmatched Accuracy: Guarantees 100% accuracy for numbers between 1 and 10 million.
+Constant Time Complexity: Achieves rapid results by employing an advanced technique that circumvents traditional computational bottlenecks.
+Sophisticated Logic: Utilizes a highly detailed set of conditions to ensure comprehensive coverage.
 
 ## Performance
 
